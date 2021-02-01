@@ -1,0 +1,8 @@
+Qual'è il valore restituito dal metodo b.getBalance() dopo le operazioni seguenti ?
+
+BankAccount b = new BankAccount(10);
+b.deposit(5000);
+b.withdraw(b.getBalance()/2);
+
+R.
+2505

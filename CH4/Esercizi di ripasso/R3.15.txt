@@ -1,0 +1,6 @@
+Come modifichereste la classe Car per poter visualizzare automobili di dimensioni
+diverse ?
+
+R.
+Andando a modificare il file Car.java creandone 2 con enunciati che specificano
+le diverse dimensioni

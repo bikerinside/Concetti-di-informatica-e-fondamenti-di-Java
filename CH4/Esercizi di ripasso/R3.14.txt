@@ -1,0 +1,6 @@
+Spiegate per quale motivo le invocazioni dei metodi getWidth e getHeight nella classe
+CarComponent non hanno parametri espliciti.
+
+R.
+Perché il metodo viene applicato al medesimo oggetto che  sta eseguendo il metodo
+paintComponent, quindi il componente ottiene semplicemente la propria larghezza.
