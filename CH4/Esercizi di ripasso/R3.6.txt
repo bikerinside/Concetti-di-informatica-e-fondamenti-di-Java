@@ -1,9 +1,0 @@
-Essendo b1 e b2 riferimenti a oggetti di tipo BankAccount, considerate le istruzioni seguenti:
-
-b1.deposit(b2.getBalance());
-b2.deposit(b1.getBalance());
-
-I saldi dei conti a cui si riferiscono b1 e b2 sono ora uguali? Fornite spiegazioni per la vostra risposta.
-
-R.
-Saranno uguali solo i due saldi dei conti bancari saranno uguali prima di questi due enunciati.
