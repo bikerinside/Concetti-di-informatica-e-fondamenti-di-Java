@@ -1,0 +1,9 @@
+Perché il parametro del metodo metodo paintComponent è di tipo Graphics, anziché Graphics2D?
+
+R.
+Graphics è una classe astratta, quindi non puoi creare la sua istanza.
+Definisce solo alcune interfacce e alcune funzionalità, quindi può essere esteso da altre classi.
+Quindi anche questo Graphics g, che è usato come parametro in paintComponent, non è solo Graphics.
+La libreria standard Java ha solo due classi estese: DebugGraphics, Graphics2D,
+quindi Graphics g è l'istanza Graphics2D memorizzata in Graphics g.
+Se non fosse così, la riga Graphics2D g2 = (Graphics2D) g; finirebbe con un errore.

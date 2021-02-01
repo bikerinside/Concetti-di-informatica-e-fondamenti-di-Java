@@ -1,0 +1,9 @@
+Identificare un metodo sovraccarico all'interno della classe String
+
+R.
+replace(char oldChar, char newChar)
+Returns a new string resulting from replacing all occurrences of oldChar in this string with newChar.
+
+replace(CharSequence target, CharSequence replacement)
+Replaces each substring of this string that matches the literal target sequence with the specified
+literal replacement sequence.

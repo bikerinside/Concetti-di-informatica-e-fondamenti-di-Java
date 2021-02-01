@@ -1,0 +1,6 @@
+Spiegate la differenza fra un oggetto e un riferimento a oggetto.
+
+R.
+Un oggetto è un'entità che si può manipolare tramite l'invocazione di metodi,
+un riferimento a oggetto viene restituito dall'operatore new, ricordiamo che esso
+non contiene l'oggetto ma fa solamente riferimento ad esso.

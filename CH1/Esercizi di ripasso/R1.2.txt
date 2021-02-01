@@ -1,0 +1,5 @@
+Che cosa distingue un computer da un comune elettrodomestico ?
+
+R: Un computer si contraddistingue da un comune elettrodomestico, per la capacità di eseguire
+istruzioni impartite dal programmatore e dalla capacità di memorizzare, oltre che a tante
+altre differenze.

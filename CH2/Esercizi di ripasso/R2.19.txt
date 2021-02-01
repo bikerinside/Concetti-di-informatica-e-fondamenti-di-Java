@@ -1,0 +1,4 @@
+In che modo si specifica il colore del testo ?
+
+R.
+g2.setColor(Color.RED); colore rosso.

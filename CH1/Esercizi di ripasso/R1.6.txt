@@ -1,0 +1,4 @@
+Che cos'è un ambiente di programmazione integrato ?
+
+Un ambiente di sviluppo integrato detto anche in inglese IDE è un programma che mettere a
+disposizione tutta una serie di strumenti per sviluppare programmi in un qualsiasi linguaggio.

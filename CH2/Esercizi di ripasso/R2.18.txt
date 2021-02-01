@@ -1,0 +1,4 @@
+Perché nei programmi grafici usiamo classi separate per i componenti  e per la loro visualizzazione?
+
+Perché in una visualizziamo le componenti e nell'altra visualizza la finestra dove verranno disegnate.
+Si può ovviare a questo utilizzando le Applet.

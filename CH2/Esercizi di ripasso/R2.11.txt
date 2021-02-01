@@ -1,0 +1,12 @@
+Consultate la documentazione API della classe Rectangle e identificare il metodo
+
+void add(int newx, int newy)
+
+Leggete con attenzione la documentazione, poi stabilite quale sia il risultato degli enunciati seguenti:
+
+Rectangle box = new Rectangle(5, 10, 20, 30);
+box.add(0,0);
+
+Se non siete sicuri, scrivete un piccolo programma di collaudo, oppure usate BlueJ.
+
+R. 0.0 0.0 25.0 40.0

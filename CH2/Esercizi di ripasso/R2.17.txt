@@ -1,0 +1,4 @@
+A cosa serve un contesto grafico ?
+
+R.
+Quando ad esempio un programma visualizza dei rettangoli in una finestra di sistema.

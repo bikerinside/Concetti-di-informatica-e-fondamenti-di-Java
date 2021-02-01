@@ -1,0 +1,3 @@
+Che cos'è un applet ?
+
+In informatica il termine applet (neologismo degli anni novanta, composto aplologico di application e let, usato in italiano al maschile[2] e traducibile come "piccolo programma") indica un programma che viene eseguito come "ospite" nel contesto di un altro programma, detto per questo container, su un computer client (elaborazione lato client). In altre parole, un applet è un programma progettato per essere eseguito all'interno di un programma-contenitore; ne consegue che l'applet non può essere eseguito indipendentemente da un altro programma.

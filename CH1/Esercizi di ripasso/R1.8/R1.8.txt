@@ -1,0 +1,5 @@
+Descrivete esattamente quali passi dovreste eseguire per fare backup del vostro lavoro
+dopo aver scritto il programma HelloTester.java
+
+Copio il file HelloTester.java sul mio computer in una cartella di backup, e di tanto
+in tanto faccio una copia della cartella su un server internet.

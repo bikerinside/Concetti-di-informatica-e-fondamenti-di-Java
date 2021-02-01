@@ -1,0 +1,7 @@
+Le variabili non inizializzate possono essere un grave problema.
+Si dovrebbero sempre inizializzare al valore 0 tutte le variabili di tipo int o double ?
+illustrate vantaggi e svantaggi di tale strategia.
+
+R.
+La risposta esatta è dipende, perché se ad esempio dobbiamo svolgere dei prodotti con
+le variabili inizializzare a 0 questo può essere un problema.

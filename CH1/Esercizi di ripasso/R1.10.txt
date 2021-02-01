@@ -1,0 +1,7 @@
+In che modo si scoprono gli errori di sintassi? Come si scoprono gli errori logici ?
+
+R: Gli errori di sintassi vengono scoperti in automatico dal programmatore "quando"
+se ne accorge oppure perché compilando il file il compilatore protesta.
+Gli errori logici invece sono più difficile da individuare perché il programma funziona
+ma non fa quello che deve fare, si può usare il debugger o analizzando l'output
+prodotto dal programma.

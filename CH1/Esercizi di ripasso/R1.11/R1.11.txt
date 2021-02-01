@@ -1,0 +1,1 @@
+Scrivete tre versioni del programma HelloTester.java , con errori di sintassi diversi. Scrivetene una versione con un errore logico.

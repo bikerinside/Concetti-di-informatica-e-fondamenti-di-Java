@@ -1,0 +1,18 @@
+Identificate gli errori presenti negli enunciati seguenti:
+
+a. Rectangle r = (5, 10, 15, 20);
+b. double width = Rectangle(5, 10, 15, 20).getWidth();
+c. Rectangle r;
+   r.translate(15, 25);
+d. r = new Rectangle();
+   r.translate("far, far away!");
+
+R.
+a. Rectangle r = new Rectangle(5, 10, 15, 20);
+b. double r = new Rectangle(5, 10, 15, 20);
+          r.getWidth();
+c. Rectangle r = new Rectangle(5, 10, 15, 20);;
+   r.translate(15, 25);
+
+d. r = new Rectangle(5, 10, 15, 20);
+   r.translate(15, 25);

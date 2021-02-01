@@ -1,0 +1,14 @@
+Indicate due metodi d'accesso e due metodi modificatori della classe Rectangle.
+
+R.
+
+Metodi accesso
+
+getX();
+getY();
+
+Metodi modificatori
+
+translate();
+
+setSize();

@@ -1,0 +1,5 @@
+Spiegate la differenza fra un oggetto e una variabile oggetto.
+
+R.
+Un oggetto è un entità manipolabile da metodi invece, una variabile oggetto
+contiene sempre un riferimento ad un oggetto.

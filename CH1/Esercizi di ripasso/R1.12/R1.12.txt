@@ -1,0 +1,12 @@
+Cosa visualizzando gli enunciati seguenti? Non cercate di indovinare: 
+scrivete ed eseguite i programmi per scoprirlo.
+
+a. System.out.println("3 + 4");
+b. System.out.println(3 + 4);
+c. System.out.println(3 + "4");
+
+R:
+
+a. 3 + 4
+b. 7
+c. 34

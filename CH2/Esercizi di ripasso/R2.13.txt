@@ -1,0 +1,11 @@
+Identificare un metodo sovraccarico all'interno della classe Rectangle
+
+R.
+void	add(int newx, int newy)
+Adds a point, specified by the integer arguments newx,newy to the bounds of this Rectangle.
+
+void	add(Point pt)
+Adds the specified Point to the bounds of this Rectangle.
+
+void	add(Rectangle r)
+Adds a Rectangle to this Rectangle.

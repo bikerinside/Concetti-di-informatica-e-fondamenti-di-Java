@@ -1,0 +1,6 @@
+Spiegate la differenza fra un'applicazione grafica e un'applicazione da console.
+
+R.
+Un applicazione grafica deve avere necessariamente un'interfaccia grafica a finestra,
+invece un'applicazione da console, viene eseguita tramite la console dei comandi o terminale,
+del proprio sistema operativo.

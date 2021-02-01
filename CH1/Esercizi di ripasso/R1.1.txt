@@ -1,0 +1,5 @@
+Spiegate la differenza fra usare un programma e  programmare un computer.
+
+R: Usare un programma significa utilizzare del software già scritto e compilato da se stessi o
+qualcun altro. Programmare un computer significa impartire una serie finita di istruzioni
+non ambiguie, che il computer eseguirà una dopo l'altra fino all'ultima.

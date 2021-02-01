@@ -1,0 +1,4 @@
+Che cos'è una finestra di console ?
+
+Una finestra di console è una finestra di comandi che viene utilizzata per dare comandi
+o eseguire programmi o anche compilare un programma Java.

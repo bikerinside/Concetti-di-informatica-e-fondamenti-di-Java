@@ -1,0 +1,13 @@
+Nel vostro computer personale, oppure in quel del laboratorio, trovatela posizione esatta (cartella o nome della directory) di:
+
+a. Il file di esempio HelloTester.java
+b. L'esecutore della macchina virtuale Java, java.exe oppure java.
+c. Il file delle libreria rt.jar, che contiene la libreria di esecuzione (libreria runtime).
+
+R:
+a = /Users/Vincenzo Rosario/pCloud Drive/JavaEx/CH1/Esercizi di ripasso/R1.8
+
+b = /Library/Java/JavaVirtualMachines/jdk-15.0.1.jdk/Contents/Home/bin
+
+c = Usando macOS esiste l'equivalente classes.jar situato in : 
+    /System/Library/Frameworks/JavaVM.framework/Classes

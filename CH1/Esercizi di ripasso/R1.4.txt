@@ -1,0 +1,4 @@
+
+Che cos'è la macchina virtuale Java ?
+
+La macchina virtuale Java (detta anche Java Virtual Machine o JVM) è il componente software della piattaforma Java che esegue i programmi tradotti in bytecode dopo la prima fase di compilazione in bytecode (tra i linguaggi di programmazione che possono essere tradotti in bytecode troviamo Java, Groovy, Clojure, Scala ed Eta).

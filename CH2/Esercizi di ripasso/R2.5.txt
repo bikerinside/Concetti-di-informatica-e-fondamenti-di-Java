@@ -1,0 +1,4 @@
+Spiegate la differenza tra il significato del simbolo = in Java e in matematica
+
+L'operatore = in Java è detto di assegnazione invece in matematica indicia l'uguaglianza
+o l'associazione di un valore ad una variabile.

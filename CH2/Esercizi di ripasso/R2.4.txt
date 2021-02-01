@@ -1,0 +1,19 @@
+Fornite il codice Java per costruire un oggetto della classe Rectangle e per dichiarare
+una variabile oggetto della stessa classe.
+
+R.
+import java.awt.Rectangle;
+
+public class Esercizio
+{
+
+  public static void main(String[] args)
+  {
+
+    Rectangle box = new Rectangle(30,30,30,30);
+
+    System.exit(0);
+
+  }
+
+}

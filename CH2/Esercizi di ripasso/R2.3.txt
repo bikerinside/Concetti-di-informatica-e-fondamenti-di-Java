@@ -1,0 +1,5 @@
+Spiegate la differenza fra un oggetto e una classe.
+
+Un OGGETTO è una ISTANZA della classe, cioè la rappresentazione concreta di una classe.
+La differenza tra classe e oggetto è la stessa che c'è tra tipo di dato e dato.
+Ad esempio gli oggetti Airbus A330, Boeing 474 e Antonov 124 appartengono alla classe Aerei.

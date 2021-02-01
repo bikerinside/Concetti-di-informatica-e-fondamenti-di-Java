@@ -1,0 +1,6 @@
+Ripetete l'esercizio R2.7, definendo ora variabili oggetto che vengono inizializzate
+con gli oggetti appena costruiti.
+
+R.
+a. Rectangle box = new Rectangle(100,100,50,50);
+b. String greeting = Hello, Dave!";

@@ -1,0 +1,6 @@
+Classificare i dispositivi memoria che possono fare parte di un computer, ordinati
+per (a) velocità, (b) costo, (c) capacità di memorizzazione.
+
+(a) - Ram, hard disk, memorie usb
+(b) - Ram, hard disk, memorie usb, floppy disk
+(c) - Hard Disk, DVD, Floppy Disk

@@ -1,0 +1,12 @@
+Fornite il codice Java per costruire i seguenti oggetti:
+
+a. Un rettangolo con il centro nel punto di coordinate(100,100) e con la lunghezza di tutti i lati
+uguale a 50.
+
+b. Una stringa "Hello, Dave!"
+
+Create soltanto oggetti, non le variabili oggetto.
+
+R.
+a. new Rectangle(100,100,50,50);
+b. "Hello, Dave!";

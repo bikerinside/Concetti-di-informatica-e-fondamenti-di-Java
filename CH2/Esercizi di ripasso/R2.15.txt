@@ -1,0 +1,5 @@
+Chi invoca il metodo PaintComponent di un componente grafico? Quando la chiamata si verifica in
+questo modo ?
+
+R.
+Viene invocato dalla classe RectangleCompononet.
