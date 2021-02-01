@@ -1,0 +1,11 @@
+Progetto 3.1. Con questo progetto migliorerete la classe BankAccount e vedrete come l'astrazione e l'incapsulamento portino
+un cambiamento rivoluzionario nel mondo del software.
+Iniziate con un miglioramento molto semplice: addebitate una commissione per ogni versamento e per ogni prelievo.
+Fornite all'utente un modo per impostare il valore della commissione e modificate i metodi deposit e withdraw per fare in modo
+che venga applicata tale commissione. Collaudate la classe risultante e verificate che i costi delle commissioni vengano gestiti correttamente.
+
+Fate ora una modifica più complessa. La banca consentirà ogni mese un numero fisso di operazioni gratuite (versamenti o prelievi)
+e applicherà la commissione soltanto alle operazioni eccedenti. Le commissioni non vengono prelevate all'atto della singola operazione,
+ma al termine di ogni mese. Progettate e realizzate un nuovo metodo per la classe BankAccount, deductMonthlyCharge,
+che sottragga al saldo del conto le commissioni del mese appena trascorso, azzerando il conteggio delle operazioni.
+Scrivete un programma di collaudo che verifichi la correttezza del funzionamento della classe simulando operazioni per alcuni mesi.
