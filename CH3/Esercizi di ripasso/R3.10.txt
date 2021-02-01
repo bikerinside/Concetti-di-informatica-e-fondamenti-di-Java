@@ -1,0 +1,11 @@
+Quali sono i metodi di accesso e i metodi modificatori della classe CashRegister?
+
+R.
+Modificatori:
+
+recordPurchase();
+enterPayment();
+
+
+Accesso:
+giveChange();

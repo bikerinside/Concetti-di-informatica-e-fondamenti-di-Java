@@ -1,0 +1,24 @@
+Cos'è il riferimento this? Per quale motivo lo usereste ?
+
+R.
+La keyword this, viene usata per specificare il parametro implicito della classe stessa.
+ad esempio in un costruttore di una classe
+
+classBankAccount
+{
+
+  public BankAccount(double initialBalance)
+  {
+
+    balance = initialBalance;
+
+  }
+
+
+}
+public BankAccount()
+{
+
+  this(0);
+
+}

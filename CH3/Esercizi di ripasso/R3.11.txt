@@ -1,0 +1,6 @@
+Illustrate la differenza tra variabile locale e variabile parametro
+
+R.
+Le variabili locali si usano ad esempio all'interno di metodi,
+invece le variabili parametro si usano nei metodi modificatori ad esempio
+per prelevare da un conto bancario passiamo come variabile parametro al metodo l'ammontare da prelevare.
