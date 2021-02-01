@@ -1,0 +1,25 @@
+Cosa fa il metodo seguente? Fornite un esempio di come si potrebbe invocare il metodo.
+
+public class BankAccount
+{
+
+  public void mystery(BankAccount that, double amount)
+  {
+    this.balance = this.balance - amount;
+    this.balance = this.balance + amount;
+  }
+  ... // gli altri metodi del conto bancario
+}
+
+R.
+Questo metodo può essere usato per trasferire denaro da un conto corrente ad un altro
+prelevando prima dall'oggetto that di tipo BankAccount l'importo contenuto in amount,
+per poi accreditarlo su un altro saldo di un altro conto.
+Ad esempio:
+
+BankAccount mioconto = new BankAccount(5000);
+BankAccount tuoconto = new BankAccount(200);
+
+mioconto.mystery(mioconto,2500);
+
+...

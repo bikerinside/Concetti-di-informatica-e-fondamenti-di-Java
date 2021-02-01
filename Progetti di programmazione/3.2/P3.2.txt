@@ -1,0 +1,12 @@
+Progetto 3.2. Con questo progetto realizzerete un'alternativa orientata agli oggetti per il programma "Hello, World!" che avete visto nel Capitolo l.
+Iniziate con una semplice classe Greeter dotata di un solo metodo, sayHello, che deve restituire una stringa,
+senza visualizzarla. Usate BlueJ per creare due oggetti di tale classe, invocandone i relativi metodi sayHello.
+Ovviamente si tratta di un'attività alquanto noiosa, dal momento che entrambi gli oggetti generano il medesimo saluto.
+Migliorate la classe Greeter in modo che ciascun oggetto produca un saluto personalizzabile.
+Ad esempio, l'oggetto costruito con new Greeter("Dave") dovrebbe dire " Hello, Dave!"
+(usate il metodo concat per unire due stringhe in modo da formare una stringa più lunga, oppure date un'occhiata al Paragrafo 4.6
+per vedere come si possa usare l'operatore + per ottenere lo stesso risultato).
+Aggiungere alla classe Greeter anche un metodo sayGoodbye.
+Infine aggiungete alla classe Greeter un metodo refuseHelp, che restituisca una stringa di questo tipo:
+"! am sorry, Dave. I am afraid I can't do that."
+Collaudate la vostra classe con BlueJ: costruite oggetti che salutino il mondo e Dave e invocate i loro metodi.

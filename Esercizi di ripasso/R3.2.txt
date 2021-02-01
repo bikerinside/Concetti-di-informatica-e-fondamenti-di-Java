@@ -1,0 +1,11 @@
+Spiegate la differenza fra
+
+BankAccount b;
+
+e
+
+BankAccount b = new BankAccount(5000);
+
+R.
+Il primo enunciato dichiara solamente un oggetto di tipo BankAccount,
+il secondo invece dichiara e costruisce un oggetto di tipo BankAccount con saldo iniziale pari a 5000.
