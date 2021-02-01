@@ -1,4 +1,0 @@
-Illustrate la differenza tra variabile locale e variabile esemplare
-
-R.
-Le variabili esemplari, si usano per dichiarare i campi di una classe.

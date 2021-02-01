@@ -1,4 +1,0 @@
-Perché il costruttore BankAccount(double initialBalance) non è strettamente necessario?
-
-R.
-Perché è possibile utilizzare un costruttore senza parametri espliciti e poi fare un versamento.

@@ -1,8 +1,0 @@
-Esercizio R3.9. Immaginate di voler realizzare una classe TimeDepositAccount che rappresenti un conto bancario
-dotato di un tasso di interesse fisso, il cui valore viene determinato al momento della costruzione dell'oggetto,
-insieme al saldo iniziale. Progettate un metodo che fornisca il valore del saldo.
-Progettate, poi un metodo che accrediti sul conto gli interessi maturati, senza aver bisogno di parametri,
-dal momento che il tasso di interessi è noto, e senza restituire alcunché, visto che esiste un altro metodo che fornisce
-il valore del saldo.
-In un conto di questo tipo non è possibile versare ulteriori fondi dopo l'apertura,
-però occorre progettare un metodo withdraw che preleva l'intero ammontare del saldo; non sono consentiti prelievi parziali.

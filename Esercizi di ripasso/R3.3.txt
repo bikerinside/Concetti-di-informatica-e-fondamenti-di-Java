@@ -1,6 +1,0 @@
-Cosa succede, con la nostra realizzazione della classe BankAccount, quando da un conto
-viene prelevato più denaro di quanto vene sia disponibile ?
-
-R.
-Il saldo diventa negativo, perché la classe realizzata in questo stato
-non gestisce un eventuale prelievo maggiore del saldo disponibile.
