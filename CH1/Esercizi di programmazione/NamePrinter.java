@@ -1,5 +1,5 @@
 /*
-Esercizio P1.1 Scrivete un programma NamePRiner che visualizzi il vostro nome all'interno
+Esercizio P1.1 Scrivete un programma NamePriner che visualizzi il vostro nome all'interno
 di un rettangolo, come nell'esempio seguente:
 +------+
 | Dave |
