@@ -1,10 +1,11 @@
 /*
-Esercizio P4.13. Realizzate una classe QuadraticEquation il cui costruttore riceve i coefficienti
-a, b e c dell'equazione quadratica ax2 + bx+ c = 0. Fornite i metodi getSolutionl e getSolution2
-che restituiscono le soluzioni, usando la formula quadratica.
-
-Scrivete una classe di collaudo QuadraticEquationTester che costruisce un oggetto
-di tipo QuadraticEquation e visualizza le due soluzioni.
+Esercizio P5.1. Scrivete un programma che stampi tutte le soluzioni reali dell'equazione di secondo grado ax2 + bx+ c=0.
+Leggete in ingresso i valori di a,b e c e usate la formula dell'equazione di secondo grado. Se il discriminante b2 - 4ac è negativo,
+visualizzate un messaggio per segnalare che non esistono soluzioni reali.
+Realizzate una classe QuadraticEquation il cui costruttore riceve i coefficienti a, b e c dell'equazione quadratica.
+Fornite i metodi getSolutionl e getSolution2 che restituiscono le soluzioni, usando la formula quadratica, oppure O se non vi sono soluzioni.
+Il metodo getSolutionl deve restituire la soluzione di valore minore.
+Fornite, infine, il metodo boolean hasSolutions() che restituisce false se il discriminante è negativo.
 */
 
 public class QuadraticEquation
